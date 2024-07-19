@@ -1,0 +1,4 @@
+chinmaya 
+pwd
+ls
+tree
